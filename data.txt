@@ -1,0 +1,4 @@
+id      name            level       dues payed
+u/13    james kelechi   200         5000.00
+u/10    Rose Amah       200         8000.00
+u/54    Christian Abraham 200       10000.00
